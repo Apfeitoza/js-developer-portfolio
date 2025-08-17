@@ -19,7 +19,6 @@ function updateProfileInfo(profileData){
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
     email.href = `email: ${profileData.email}`
-
 }
 
 function updateSoftSkills (profileData){
@@ -32,7 +31,7 @@ function updateHardSkills (profileData){
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => ` <li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li> `).join('')
 }
 
-function updateLanguades (profileData){
+function updateLanguages (profileData){
     const languages = document.getElementById('profile.languages')
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
