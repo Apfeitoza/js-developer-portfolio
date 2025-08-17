@@ -39,15 +39,15 @@
   "portfolio": [
     {
       "name": "Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS(DIO)",
-      "gitHub": "https://github.com/Apfeitoza/js-yugioh-assets",
+      "url": "https://github.com/Apfeitoza/js-yugioh-assets",
       "certificado": "https://hermes.dio.me/certificates/SK9HN61V.pdf",
-      "git": true
+      "github": true
     },
     {
-      "nome": "Construindo um Simulador de Piano com JavaScript e CSS (DIO)",
-      "gitHub": "https://github.com/Apfeitoza/js-music-keyboard-virtual",
+      "name": "Construindo um Simulador de Piano com JavaScript e CSS (DIO)",
+      "url": "https://github.com/Apfeitoza/js-music-keyboard-virtual",
       "certificado": "https://hermes.dio.me/certificates/ZCKIV0TP.pdf",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
