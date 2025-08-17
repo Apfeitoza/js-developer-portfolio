@@ -1,64 +1,60 @@
 {
-  "name": "Ana Paula Feitoza",
-  "photo":"https://avatars.githubusercontent.com/u/212277763?v=4",
-  "job": "Estudante de Análise de Sistemas",
-  "location": "Assis-SP",
-  "phone": "(18) 99999-9999",
-  "email": "anna_paulasf@hotmail.com",
-  "skills": {
-    "hardSkills": [
-      {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
-      },
-      {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
-      },
-      {
-        "name": "VsCode",
-        "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/vscode.png"
-      },
-      {
-        "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
-      }
-    ],
-    "softSkills": [
-      "Organização",
-      "Empatia",
-      "Trabalho em Equipe",
-      "Flexibilidade"
-    ]
-  },
-  "languages": [
-      "Português Br",
-      "Inglês (intermediário)",
-      "Espanhol (iniciante)"    
-  ],
-  "portfolio": [
-    {
-      "name": "Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS(DIO)",
-      "url": "https://github.com/Apfeitoza/js-yugioh-assets",
-      "certificado": "https://hermes.dio.me/certificates/SK9HN61V.pdf",
-      "github": true
+    "name": "Ana Paula Feitoza",
+    "photo": "https://avatars.githubusercontent.com/u/212277763?v=4",
+    "job": "Estudante de Análise de Sistemas",
+    "location": "Assis-SP",
+    "phone": "(18) 99999-9999",
+    "email": "anna_paulasf@hotmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "JavaScript",
+                "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+            },
+            {
+                "name": "HTML",
+                "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+            },
+            {
+                "name": "VsCode",
+                "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/vscode.png"
+            },
+            {
+                "name": "GitHub",
+                "logo": "https://raw.githubusercontent.com/Apfeitoza/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+            }
+        ],
+        "softSkills": [
+            "Organização",
+            "Empatia",
+            "Trabalho em Equipe",
+            "Flexibilidade"
+        ]
     },
-    {
-      "name": "Construindo um Simulador de Piano com JavaScript e CSS (DIO)",
-      "url": "https://github.com/Apfeitoza/js-music-keyboard-virtual",
-      "certificado": "https://hermes.dio.me/certificates/ZCKIV0TP.pdf",
-      "github": true
-    }
-  ],
-  "experiencias": [
-    {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
-    }
-  ]
+    "languages": [
+        "Português Br",
+        "Inglês (intermediário)",
+        "Espanhol (iniciante)"
+    ],
+    "portfolio": [
+        {
+            "name": "Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS (DIO)",
+            "url": "https://github.com/Apfeitoza/js-yugioh-assets",
+            "certificado": "https://hermes.dio.me/certificates/SK9HN61V.pdf",
+            "github": true
+        },
+        {
+            "name": "Construindo um Simulador de Piano com JavaScript e CSS (DIO)",
+            "url": "https://github.com/Apfeitoza/js-music-keyboard-virtual",
+            "certificado": "https://hermes.dio.me/certificates/ZCKIV0TP.pdf",
+            "github": true
+        }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Desenvolvedor web - Projetos Pessoais",
+            "period": "Jan 2025 - atual",
+            "description": "Criação de interfaces responsivas com HTML5, CSS3 e JavaScript. Implementação de formulários com validação e armazenamento local usando localStorage e JSON. Desenvolvimento de páginas temáticas e clones de interfaces conhecidas (ex.: YouTube, Discord) para prática de layout e usabilidade. Utilização de Git e GitHub para versionamento e publicação de projetos."
+        }
+    ]
 }
